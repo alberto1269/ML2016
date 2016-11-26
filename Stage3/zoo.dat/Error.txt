@@ -1,0 +1,1 @@
+y_true and y_pred contain different number of classes 6, 7. Please provide the true labels explicitly through the labels argument. Classes found in y_true: [ 0.  1.  2.  3.  5.  6.]
